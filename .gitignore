@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# 运行时产物
+events.jsonl
+backups/
+notes.md
+staging/
+staging_done/
+approvals/
+*.db
+*.sqlite3
+*.pem
